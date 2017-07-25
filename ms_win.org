@@ -1,10 +1,9 @@
 * Wow, like emacs-daemon on linux but on ms-windows!!
 
-** Why windows....
-*** Most of my collegue work on windows, so it seems no choice for zyx.
+** You can download [[https://github.com/zklhp/emacs-w64/releases][emacs]] for windows
 
-** Step one
-*** Download emacs for windows, put emacs somewhere you like.
-   - e.g. d:\software\emacs
-   -
-**** If don't know where you can download emacs, google is the right way.
+** Using emacs server at windows startup
+At [[https://www.emacswiki.org/emacs/EmacsMsWindowsIntegration#toc6][here]], a wiki guide you how to run
+*emacs server* at windows startup & create shortcut to Emacs client
+
+*** Note that only for *Windows 10/Emacs 25*

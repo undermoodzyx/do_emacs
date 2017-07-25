@@ -1,0 +1,10 @@
+* Wow, like emacs-daemon on linux but on ms-windows!!
+
+** Why windows....
+*** Most of my collegue work on windows, so it seems no choice for zyx.
+
+** Step one
+*** Download emacs for windows, put emacs somewhere you like.
+   - e.g. d:\software\emacs
+   -
+**** If don't know where you can download emacs, google is the right way.
